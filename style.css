@@ -1,0 +1,27 @@
+body {
+    color: yellow;
+    background-color: darkblue;
+}
+
+h1, h2 {
+    font-family: 'Sedan SC', cursive;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.lang {
+    font-family: 'Poetsen One', sans-serif;
+}
+
+.Why, .What, .sharp {
+    font-family: 'Oswald', cursive;
+}
+
+a:hover {
+    color: red;
+    font-family: 'Titillium Web', cursive;
+}
+
+h1 {
+    text-align: center;
+}
